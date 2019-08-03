@@ -2,8 +2,8 @@ import requests
 import json
 from requests_oauthlib import OAuth1
 
-api_key="Z0P4OidK4cKttEmzDdQRSckpa"
-api_secret="rqpAf5m3pbnoanYR1Z5BLYFkksiuxhwOQzhv8PeVmHsa7rXySR"
+api_key=" "
+api_secret=" "
 
 auth=OAuth1(api_key,api_secret)
 
